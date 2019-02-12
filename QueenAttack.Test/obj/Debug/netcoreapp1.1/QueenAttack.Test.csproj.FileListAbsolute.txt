@@ -1,0 +1,17 @@
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.AssemblyInfo.cs
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.Test.deps.json
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.Test.runtimeconfig.json
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.Test.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.Test.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.Test.pdb
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\bin\Debug\netcoreapp1.1\QueenAttack.pdb
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.csproj.CopyComplete
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack.Test\obj\Debug\netcoreapp1.1\QueenAttack.Test.pdb

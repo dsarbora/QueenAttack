@@ -1,0 +1,9 @@
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\bin\Debug\netcoreapp1.1\QueenAttack.deps.json
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\bin\Debug\netcoreapp1.1\QueenAttack.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\bin\Debug\netcoreapp1.1\QueenAttack.pdb
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\obj\Debug\netcoreapp1.1\QueenAttack.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\obj\Debug\netcoreapp1.1\QueenAttack.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\obj\Debug\netcoreapp1.1\QueenAttack.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\obj\Debug\netcoreapp1.1\QueenAttack.AssemblyInfo.cs
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\obj\Debug\netcoreapp1.1\QueenAttack.dll
+C:\Users\Dave\source\repos\QueenAttack.Solution\QueenAttack\obj\Debug\netcoreapp1.1\QueenAttack.pdb
