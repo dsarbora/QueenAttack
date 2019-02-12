@@ -59,5 +59,11 @@ namespace QueenAttack
             Queen testQueen = new Queen(4,4);
             Assert.AreEqual (true, testQueen.CanMove(1,7));
         }
+        [TestMethod]
+        public void Queen_CannotMoveOffBoard_False()
+        {
+            Queen testQueen = new Queen(4,4);
+            Assert.AreEqual (false, testQueen.CanMove(9,4));
+        }
     }
 }

@@ -13,11 +13,18 @@ public class Queen
 
     public bool CanMove(int newX, int newY)
     {
-        int deltaX = newX - X;
-        int deltaY = newY - Y;
-        if(((deltaX==0||deltaY==0)&&(deltaX!=0||deltaY!=0)||deltaY==deltaX|deltaY==0-deltaX))
+        if((newX>0 && newX<=8)&&newY>0&&newY<=8)
         {
-            return true;
+            int deltaX = newX - X;
+            int deltaY = newY - Y;
+            if(((deltaX==0||deltaY==0)&&(deltaX!=0||deltaY!=0)||deltaY==deltaX|deltaY==0-deltaX))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
         else
         {
